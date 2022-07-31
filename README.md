@@ -3,7 +3,7 @@
 A Public Messenger web application where anyone with a Google account can log in and chat. <br/>
 Frontend developed using React JS and Backend using Firebase (Firestore database connectivity). <br/>
 User Login is enabled through Google authentication by Firebase. <br/>
-Web application is deployed using Heroku at on-discuz.herokuapp.com(on-discuz.herokuapp.com)
+Web application is hosted using Firebase at [ondiscuz.web.app](https://ondiscuz.web.app)
 
 ### Navigation
 
